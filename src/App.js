@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import './App.css';
 import logo from './assets/LogoMDL300.png';
@@ -40,7 +41,44 @@ function App() {
           </div>
         </body>
         <footer style={{ position: 'relative', textAlign: 'center', fontSize: '11px', letterSpacing: '0.5px', lineHeight: '17.6px', color: '#fff', fontFamily: '"Segoe UI", Tahoma, Geneva, Verdana, sans-serif' }}>
-          <div  className='footer-top'></div>
+          <div  className='footer-top'>
+            <div>
+              <div style={{ color: 'white', fontSize: '14px', fontWeight: 'bold' }}>
+                HORÁRIO DE ATENDIMENTO
+              </div>
+              <div style={{ fontSize: '12px', color: '#ac9789' }}>
+                Segunda a Sexta, das 9h às 18h
+              </div>
+            </div>
+            <div>
+              <div style={{ color: 'white', fontSize: '14px', fontWeight: 'bold' }}>
+                RIO DE JANEIRO
+              </div>
+              <div style={{ fontSize: '12px', color: '#ac9789' }}>
+                Torre do Rio Sul<br/>
+                Rua Lauro Muller, 116 7° andar - Sl 705 - Botafogo<br/>
+                CEP 22290-160
+              </div>
+              <div style={{ fontSize: '12px', color: '#ac9789' }}>
+                <i class="fa-solid fa-phone" style={{ paddingRight: '3px', fontSize: '10px' }}></i>
+                4000-2239
+              </div>
+            </div>
+            <div>
+              <div style={{ color: 'white', fontSize: '14px', fontWeight: 'bold' }}>
+                SÃO PAULO
+              </div>
+              <div style={{ fontSize: '12px', color: '#ac9789' }}>
+                Condomínio Ed. Comercial Iracema<br/>
+                Rua Dr. Renato Paes de Barros, 717 4º andar - cj. 44 - Itaim Bibi<br/>
+                CEP 04530-001
+              </div>
+              <div style={{ fontSize: '12px', color: '#ac9789' }}>
+                <i class="fa-solid fa-phone" style={{ paddingRight: '3px', fontSize: '10px' }}></i>
+                4000-2239
+              </div>
+            </div>
+          </div>
           <div className='footer-mid'></div>
           <div className='footer-bottom'>© Copyright 2022 Axor - All Rights Reserved</div>
         </footer>
