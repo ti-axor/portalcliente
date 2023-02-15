@@ -1,0 +1,83 @@
+main {
+    position: relative;
+    font-style: normal;
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+
+.login-fundo {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 95vh;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background: url('../../assets/CapaMosaic.jpg') top center;
+    align-items: center;
+    display: flex;
+    height: 83vh;
+    transform: scale(1.355);
+}
+
+.container-info {
+    height: 409.594px;
+    width: 1108px;
+    padding: 0 16px 0 16px;
+    margin: 0 256px 0 256px;
+    display: flex;
+    justify-content: center;
+}
+
+.container-block {
+    height: 409.594px;
+    width: 1172px;
+    margin: 0 -2rem 0 -2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.form-wrap {
+    height: 409.594px;
+    width: 522px;
+    padding: 0 2rem 0 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.form-box {
+    height: 409.594px;
+    width: 522px;
+    opacity: 0.8;
+    padding: 2rem;
+    padding-right: 2rem;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    left: -2.5rem;
+    top: -1.2rem;
+}
+
+.form-main {
+    height: 313.594px;
+    width: 490px;
+    padding: 2.5rem 1rem;
+    z-index: 1;
+    background-color: transparent;
+    padding: 3rem 1rem 3rem 1rem;
+    position: relative;
+    overflow: visible;
+}
+
+.form-div {
+    font-family: 'Didact Gothic';
+}
+
+.container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
