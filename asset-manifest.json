@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portaldocliente/static/css/main.3c8584dc.css",
-    "main.js": "/portaldocliente/static/js/main.dec22be1.js",
+    "main.js": "/portaldocliente/static/js/main.50167f5c.js",
     "static/media/CapaMosaic.jpg": "/portaldocliente/static/media/CapaMosaic.deff17f9823bb4fc840b.jpg",
     "static/media/LogoMDL300.png": "/portaldocliente/static/media/LogoMDL300.344942fe80b4aad574f5.png",
     "index.html": "/portaldocliente/index.html",
     "main.3c8584dc.css.map": "/portaldocliente/static/css/main.3c8584dc.css.map",
-    "main.dec22be1.js.map": "/portaldocliente/static/js/main.dec22be1.js.map"
+    "main.50167f5c.js.map": "/portaldocliente/static/js/main.50167f5c.js.map"
   },
   "entrypoints": [
     "static/css/main.3c8584dc.css",
-    "static/js/main.dec22be1.js"
+    "static/js/main.50167f5c.js"
   ]
 }
