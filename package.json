@@ -1,7 +1,7 @@
 {
   "name": "portaldocliente",
   "version": "0.1.0",
-  "homepage": "https://ti-axor.github.io/portaldocliente/",
+  "homepage": "https://tiaxor.github.io/portaldocliente",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
