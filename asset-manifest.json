@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portaldocliente/static/css/main.3c8584dc.css",
-    "main.js": "/portaldocliente/static/js/main.46ca8c45.js",
-    "static/media/CapaMosaic.jpg": "/portaldocliente/static/media/CapaMosaic.deff17f9823bb4fc840b.jpg",
-    "static/media/LogoMDL300.png": "/portaldocliente/static/media/LogoMDL300.344942fe80b4aad574f5.png",
-    "index.html": "/portaldocliente/index.html",
-    "main.3c8584dc.css.map": "/portaldocliente/static/css/main.3c8584dc.css.map",
-    "main.46ca8c45.js.map": "/portaldocliente/static/js/main.46ca8c45.js.map"
+    "main.css": "/portalcliente/static/css/main.a0446c16.css",
+    "main.js": "/portalcliente/static/js/main.88b55970.js",
+    "static/media/CapaMosaic.jpg": "/portalcliente/static/media/CapaMosaic.deff17f9823bb4fc840b.jpg",
+    "static/media/LogoMDL300.png": "/portalcliente/static/media/LogoMDL300.344942fe80b4aad574f5.png",
+    "index.html": "/portalcliente/index.html",
+    "main.a0446c16.css.map": "/portalcliente/static/css/main.a0446c16.css.map",
+    "main.88b55970.js.map": "/portalcliente/static/js/main.88b55970.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8584dc.css",
-    "static/js/main.46ca8c45.js"
+    "static/css/main.a0446c16.css",
+    "static/js/main.88b55970.js"
   ]
 }
