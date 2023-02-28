@@ -18,7 +18,7 @@ function Main() {
                       transform: 'scale(1.1)'
                     }}>
                     <h3 style={{ fontSize: '40px', lineHeight: '48px', fontWeight: 'inherit' }}>
-                      Porta do Cliente
+                      Portal do Cliente
                     </h3>
                     <h4 style={{ fontSize: '16px', lineHeight: '25.6px', fontWeight: 'normal' }}>
                       Site em manutenção, desculpe o transtorno!
